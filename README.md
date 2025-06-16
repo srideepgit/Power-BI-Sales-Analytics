@@ -51,7 +51,7 @@ This project leverages the following technologies for data analysis and visualiz
 
 ## 📊 Power BI Dashboard Preview
 
-![image](![Screenshot 2025-06-16 065307](https://github.com/user-attachments/assets/71d6bc8d-1981-4dec-affd-a68b756900f2)
+!(![Screenshot 2025-06-16 065307](https://github.com/user-attachments/assets/71d6bc8d-1981-4dec-affd-a68b756900f2)
 )
 
 
