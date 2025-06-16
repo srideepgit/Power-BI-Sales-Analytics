@@ -90,10 +90,10 @@ You can access and download the full project solution from **Google Drive** usin
 🔹 **Add real-time data integration** with APIs or cloud databases.
 
 ## 👨‍💻 About Me
-Hi! I’m **Subham Das**, a passionate **Data Analyst & Data Scientist** specializing in **data visualization, business intelligence, and analytics**. I have experience working with SQL, Power BI, and advanced data modeling techniques.
+Hi! I’m **Srideep Sarkar**, a passionate **Data Analyst & Data Scientist** specializing in **data visualization, business intelligence, and analytics**. I have experience working with SQL, Power BI, and advanced data modeling techniques.
 
 📌 **Let’s Connect!**
-🔗 [LinkedIn](https://www.linkedin.com/in/subham-das-6a7809198/?trk=opento_sprofile_details)  |  📧 [Email](subhamd011@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/srideepsarkar/)  |  📧 [Email](srideeppersonal@gmail.com)  
 
 ---
 ⚡ **If you find this project useful, feel free to fork, star ⭐, or contribute!** 🚀
