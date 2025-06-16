@@ -51,7 +51,8 @@ This project leverages the following technologies for data analysis and visualiz
 
 ## 📊 Power BI Dashboard Preview
 
-![image](![image](https://github.com/user-attachments/assets/e1270ced-b444-4162-bc93-103dffd6d496))
+![image](![Screenshot 2025-06-16 065307](https://github.com/user-attachments/assets/71d6bc8d-1981-4dec-affd-a68b756900f2)
+)
 
 
 ## 📂 Project Structure
@@ -78,7 +79,7 @@ The dataset is sourced from the **Northwind Traders database**, which includes t
 ## 📤 Download Project Solution
 You can access and download the full project solution from **Google Drive** using the link below:
 
-🔗 **[Download Solution Files]()**
+🔗 **[Download Solution Files](https://drive.google.com/drive/u/0/folders/1o-YMB5qYzOdvzNrlgrI4m3FtRTHdE9_i)**
 
 📌 *Note:* Ensure you have the necessary permissions to access the files.
 
